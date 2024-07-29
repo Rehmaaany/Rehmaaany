@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rehmaaany
-- 👀 I’m interested in website & Mobile Application development.
+- 👀 I’m interested in Mobile Application development.
 - 🌱 I’m currently working on React Native with Javascript & Typescript.
 - 📫 How to reach me abdurrehman1112@gmail.com
 
